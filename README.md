@@ -5,7 +5,6 @@ This password generator has been created to help users create passwords of diffe
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [MIT License](#MIT-License)
 * [Contributing](#Contributing)
 
@@ -16,15 +15,11 @@ Clone repository on local machine and run HTML file in browser. After opening th
 ## Usage 
 The present application was made to help users store events into their schedule.
 
-[Deployed Work Day Scheduler Site](https://diegocordoba87.github.io/password-generator/)
+[Deployed Work Day Scheduler Site](https://diegocordoba87.github.io/WorkDayScheduler/)
 
 ![Work Day Scheduler  Main Screen ](assets/images/WorkDaySchedulerMain.png) 
 ![Work Day Scheduler with event saved](assets/images/WorkDaySchedulerSample.png)
 
-
-## Credits
-
-This was a single project completed as homework for Georgia Tech Coding Boot Camp /FullStack Flex Program. With the help of instructors and classmates, I was able to create this password generator.
 
 ## MIT License
 
