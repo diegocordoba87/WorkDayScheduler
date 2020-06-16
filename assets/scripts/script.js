@@ -19,12 +19,12 @@ $(document).ready(function () {
     
     for (i = 0; i < 9; i++) {
         var hour = $(".hour");
-        var hourId = $(hour[i]).attr("id"); 
-        var currentHour = present.format("k");
+        var hourId = parseInt($(hour[i]).attr("id")); 
+        var currentHour = parseInt((present.format("k")));
       if (hourId  < currentHour) {
         $("#input"+i).addClass("past");
       }
-      else if (hourId  == currentHour) {
+      else if (hourId  === currentHour) {
         $("#input"+i).addClass("present");
       }
       else if (hourId > currentHour) {
